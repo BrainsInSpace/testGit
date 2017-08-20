@@ -12,7 +12,8 @@ int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
         NSLog(@"Oh boy oh boy!");
-        
+        //Update #2 just to be sure
+        NSLog(@"Fatbot is fat.");
     }
     return 0;
 }
